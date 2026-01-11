@@ -1,0 +1,38 @@
+# Online Food Delivery App (Python)
+
+A simple console-based Online Food Delivery Application built using Python.  
+This project simulates the basic workflow of a food delivery system.
+
+## 🔹 Features
+- User login authentication
+- Restaurant menu display
+- Food ordering with quantity
+- Bill calculation
+- Order confirmation
+- Delivery status simulation
+
+## 🛠 Technologies Used
+- Python
+- Git & GitHub
+
+## 🧠 Python Concepts Used
+- Dictionaries
+- Conditional statements (if-else)
+- Loops
+- User input handling
+- Basic arithmetic operations
+- time.sleep() for simulation
+
+## ▶️ How to Run
+1. Install Python
+2. Clone the repository:
+ git clone
+   https://github.com/nandurajavrapu-cell/online-food-delivery-app-python.git
+3. Navigate to the project folder:
+## 🎯 Learning Outcome
+- Improved understanding of Python basics
+- Hands-on experience with dictionaries and logic building
+- Learned how to push projects to GitHub
+
+## 👩‍💻 Author
+Nandini Rajavarapu
